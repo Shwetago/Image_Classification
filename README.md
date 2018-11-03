@@ -9,7 +9,7 @@ This is basically a binary classification which is used to classify the images o
 Install Anaconda from here [Anaconda](https://www.anaconda.com/download/#windows)
 
 First install tensorflow otherwise you will get an error because keras is a framework which needs a backend, it can be either tensorflow or theano. I have tested this using tensorflow.
-Easiest way is open 'Anaconda Navigator' and from top upper lest corner change base(root) to tensorflow.
+Easiest way is open `Anaconda Navigator` and from top upper left corner change `base(root) to tensorflow`.
 Then install jupyter notebook from there and then launch it.
 
 ## Activate Tensorflow
