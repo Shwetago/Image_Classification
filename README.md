@@ -1,12 +1,12 @@
 # Image_Classification
 
-This is basically a binary classification which is used to classify the images of a cat or a dog. I have implemented this on 'jupyter notebook'.
+This is basically a binary classification which is used to classify the images of a cat or a dog. I have implemented this on `jupyter notebook`.
 - I have used CNN for the classification.
 - I have used keras library which is a framework built on top of tensorflow and used tensorflow as backend.
 
 # Installation
 
-Install Anaconda from here [Anaconda] (https://www.anaconda.com/download/#windows)
+Install Anaconda from here [Anaconda](https://www.anaconda.com/download/#windows)
 
 First install tensorflow otherwise you will get an error because keras is a framework which needs a backend, it can be either tensorflow or theano. I have tested this using tensorflow.
 Easiest way is open 'Anaconda Navigator' and from top upper lest corner change base(root) to tensorflow.
