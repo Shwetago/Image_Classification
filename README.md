@@ -21,6 +21,6 @@ activate tensorflow
 conda install -c conda-forge tensorflow
 ```
 ## Install keras 
-- After activating tensorflow type 'conda install keras' or 'pip install keras' in anaconda prompt.
+- After activating tensorflow type `conda install keras` or `pip install keras` whichever works for you in anaconda prompt.
 
 There you go. 
