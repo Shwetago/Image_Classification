@@ -1,6 +1,6 @@
 # Image_Classification
 
-This is basically a binary classification which is used to classify the images of a cat or a dog. I have implemented this on `jupyter notebook`.
+This is basically a multi-class classification which is used to classify the blood cells. I have implemented this on `jupyter notebook`.
 - I have used CNN for the classification.
 - I have used keras library which is a framework built on top of tensorflow and used tensorflow as backend.
 
